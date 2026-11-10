@@ -1,0 +1,11 @@
+*
+!.gitignore
+!README.md
+!SKILL.md
+!start_ingestion.sh
+!manifest_urls_aria2.txt
+!aa_derived_mirror_metadata_20260208.torrent
+!build_catalog_fast.py
+!grab_book.py
+!search_books.py
+!fetch_md5.py
